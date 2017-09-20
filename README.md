@@ -1,5 +1,8 @@
 # Payments Gateway
 
+## Available endpoints
+https://www.getpostman.com/collections/e1f94f7c1fd67c25a1c7
+
 ## Getting started
 * Create a Stripe (https://stripe.com/) account
 * Verify phone number for your account
